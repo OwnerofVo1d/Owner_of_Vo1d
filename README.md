@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Hamdan
+# yoo, I'm Hamdan
 
-💻 Tech enthusiast from Saudi Arabia 🇸🇦
+💻 Tech enthusiast from Saudi Arabia 
 
 I'm interested in:
 - 🐧 Linux (Fedora, Arch)
-- 🤖 ESP32 & Arduino
+- 🤖 ESP32 & Arduino(idk i used to)
 - 🏠 Home Assistant
 - 🌐 Networking & Self-hosting
 - ☁️ Open Source
@@ -25,13 +25,6 @@ I'm interested in:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Hamdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ## 🔗 Connect with Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- Discord: your_username
+- Discord: owner_of_vo1d
